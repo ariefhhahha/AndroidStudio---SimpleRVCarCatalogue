@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Muscle Cars</string>
+
+    <!-- sumber spesifikasi = https://www.digitaltrends.com/cars/ -->
+    <!-- sumber lain = https://cars.usnews.com/cars-trucks/best-muscle-cars -->
+    <!-- dari wikipedia juga ada deng -->
+
+    <!-- Ford Mustang -->
+    <string name="car_name_c1">Mustang</string>
+    <string name="car_brand_c1">Ford</string>
+    <!-- Specs -->
+    <string name="car_engine_c1">5.0L V8</string>
+    <string name="car_hp_c1">460 HP (700RPM)</string>
+    <string name="car_torque_c1">570 NM (3000RPM)</string>
+    <string name="car_desc_c1">
+        When thinking about American muscle cars, it’s impossible not to think about the Ford Mustang. The original Pony car has seen some changes since its introduction in 1965. However, it’s still a strong contender for the best American muscle car on the market.\n\n
+        Base Mustangs are powered by a turbocharged four-cylinder engine. That may not scream “muscle car,” but it produces over 300 horsepower. You can spend another $10,000 and upgrade to the Mustang GT (pictured above). The GT comes with a 460-horsepower V8 engine that offers exhilarating acceleration.
+    </string>
+    <string name="car_price_c1">$25.680 - $55.940</string>
+
+    <!-- Chevrolet Camaro -->
+    <string name="car_name_c2">Camaro</string>
+    <string name="car_brand_c2">Chevrolet</string>
+    <!-- Specs -->
+    <string name="car_engine_c2">6.2L V8</string>
+    <string name="car_hp_c2">455 HP (6000RPM)</string>
+    <string name="car_torque_c2">616 NM (4400RPM)</string>
+    <string name="car_desc_c2">
+        Another classic American muscle car, the Chevrolet Camaro, has done well since its reintroduction to the market for the 2010 model year.\n\n
+        But we don’t want enough power for most people; we want the most power possible. The Camaro keeps the muscle car spirit alive with 455- and 650-horsepower V8s. You can get the 455-horsepower engine in the Camaro SS ($37,000) and the 650-horsepower engine in the Camaro ZL1 ($61,500).
+    </string>
+    <string name="car_price_c2">$25.905 - $67.500</string>
+
+    <!-- Dodge Challenger -->
+    <string name="car_name_c3">Challenger</string>
+    <string name="car_brand_c3">Dodge</string>
+    <!-- Specs -->
+    <string name="car_engine_c3">5.7L HEMI V8</string>
+    <string name="car_hp_c3">375 HP (5150RPM)</string>
+    <string name="car_torque_c3"> 555 NM (4100RPM)</string>
+    <string name="car_desc_c3">
+        The base Challenger offers drivers a 305-horsepower V6 engine. It’s a strong engine that is more powerful than most other base engines in the class.\n\n
+        You can upgrade to a number of different V8 engines. The R/T trim offers a 5.7-liter V8 that produces up to 375 horsepower. If that’s still not enough for you, the R/T Scat Pack and 392 trims feature a 6.4-liter V8. That monster pushes out close to 500 horsepower.
+    </string>
+    <string name="car_price_c3">$27.295 - $83.295</string>
+
+    <!-- Dodge Charger -->
+    <string name="car_name_c4">Charger</string>
+    <string name="car_brand_c4">Dodge</string>
+    <!-- Specs -->
+    <string name="car_engine_c4">6.4L HEMI V8</string>
+    <string name="car_hp_c4">485 HP (6100RPM)</string>
+    <string name="car_torque_c4"> 644 NM (4100RPM)</string>
+    <string name="car_desc_c4">
+        The younger brother of the Challenger, the Dodge Charger shares many of the Challenger’s characteristics. While it doesn’t offer the typical American muscle-car look – it’s a four-door sedan, after all – it certainly has the power to compete with the Mustang, Camaro, and Challenger. The base Charger has a slightly smaller engine than the Challenger – 292 horsepower compared to 305. However, the Charger comes with a similar lineup of V8 options.
+    </string>
+    <string name="car_price_c4">$28.995 - $66.295</string>
+
+    <!-- Chrysler 300C -->
+    <string name="car_name_c5">300C</string>
+    <string name="car_brand_c5">Chrysler</string>
+    <!-- Specs -->
+    <string name="car_engine_c5">5.7L HEMI V8</string>
+    <string name="car_hp_c5">363 HP (5150RPM)</string>
+    <string name="car_torque_c5"> 479 NM (4100RPM)</string>
+    <string name="car_desc_c5">
+        The base Chrysler 300 has a 3.6-liter V6 that produces 292 horsepower. That engine has the power to get the 300 going, but not enough to outgun any of the other cars on this list.\n\n
+        To do that, you have to upgrade to the 5.7-liter Hemi V8 that pushes out 363 horsepower. It delivers faster acceleration than the V6, so if you’re looking for that extra oomph when you push down the pedal, the V8 is worth it.
+    </string>
+    <string name="car_price_c5">$28.995 - $40.995</string>
+
+    <!-- Cadillac CTS-V -->
+    <string name="car_name_c6">CTS-V</string>
+    <string name="car_brand_c6">Cadillac</string>
+    <!-- Specs -->
+    <string name="car_engine_c6">6.2L LT4 V8</string>
+    <string name="car_hp_c6">640 HP (6400RPM)</string>
+    <string name="car_torque_c6"> 854 NM (3600RPM)</string>
+    <string name="car_desc_c6">
+        An expensive luxury sedan may not be people’s first choice when they think of muscle cars, but the Cadillac CTS can pack a punch. The base engine may be weak – just 268 horsepower – but spend some extra cash, and you can end up with a luxurious muscle car.\n\n
+        The Cadillac CTS-V (pictured above) comes equipped with a 640-horsepower supercharged V8 engine. It’s by far one of the strongest engines in the luxury midsize car class and gets the CTS-V from zero to 60 mph in just 3.7 seconds. The Cadillac has a top speed of 200 mph. It’s safe to say the CTS-V is one of the best-performing luxury cars on the market.
+    </string>
+    <string name="car_price_c6">$86.495</string>
+
+</resources>
